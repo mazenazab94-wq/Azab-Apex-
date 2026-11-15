@@ -1,0 +1,6 @@
+{
+  "name": "Nitro Apex Kart",
+  "description": "High-speed 3D online arcade kart racing with 24 original characters, 32 customizable karts, 16 tracks, split-screen, and 8-player real-time WebSocket multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
